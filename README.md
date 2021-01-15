@@ -6,5 +6,9 @@
 4) Проверен доступ командой curl.
 
 Итоговый результат:
-![alt_text](Screenshot%20(32).png)
+
 ![alt_text](Screenshot%20(34).png)
+
+Проверка в браузере:
+
+![alt_text](Screenshot%20(32).png)
